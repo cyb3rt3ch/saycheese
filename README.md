@@ -18,4 +18,6 @@ git clone https://github.com/cyb3rt3ch/saycheese
 cd saycheese
 bash saycheese.sh
 ```
+## Donate Us:
+   https://bit.ly/DonaTeUs
 
