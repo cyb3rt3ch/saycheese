@@ -20,7 +20,7 @@ cd saycheese
 
 apt-get install wget
 
-apt-get install wget
+apt-get install php
 
 bash saycheese.sh
 ```
