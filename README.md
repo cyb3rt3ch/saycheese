@@ -15,7 +15,13 @@ Take webcam shots from target just sending a malicious link
 
 ```
 git clone https://github.com/cyb3rt3ch/saycheese
+
 cd saycheese
+
+apt-get install wget
+
+apt-get install wget
+
 bash saycheese.sh
 ```
 ## Donate Us:
